@@ -1,0 +1,11 @@
+mat-accordion,mat-expansion-panel{
+  margin: auto;
+  /* width:90%; */
+}
+mat-spinner{
+  margin:auto;
+}
+
+img{
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
